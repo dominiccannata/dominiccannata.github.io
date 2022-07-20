@@ -1748,7 +1748,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }
 
 /*--------------------------
-	Overlay styles 
+	Overlay styles
 ---------------------------*/
 [data-overlay],
 [data-black-overlay],
@@ -1820,7 +1820,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     color: #ffffff; }
 
 /*------------------------------
-    Scroll Up 
+    Scroll Up
 --------------------------------*/
 #scrollUp {
   width: auto;
@@ -2061,7 +2061,7 @@ h2.section-title {
   font-weight: 300; }
 
 /* =========================
-Progress Bar Css 
+Progress Bar Css
 ===========================*/
 /* Progress Position */
 .progress.progress-label-top span.percent-label {
@@ -2094,7 +2094,7 @@ Progress Bar Css
     border-radius: 5px; }
 
 /* ================
-Main Css 
+Main Css
 ==================*/
 .progress.progress-label-top span.percent-label {
   position: absolute;
@@ -2185,7 +2185,7 @@ Main Css
   font-size: 16px; }
 
 /* =====================
-    Portfolio Area 
+    Portfolio Area
 =======================*/
 .rn-portfolio-area .container {
   max-width: 1455px; }
@@ -2247,7 +2247,7 @@ Main Css
     background-size: cover !important;
     background-position: center !important; }
   .portfolio.project-bg--1::before {
-    background: url("img/pic2.jpg"); }
+    background: url("img/IMG-0802.jpg"); }
   .portfolio.project-bg--2::before {
     background: url("img/pic3.jpg"); }
   .portfolio.project-bg--3::before {
@@ -2324,7 +2324,7 @@ Main Css
   padding: 0 7.5px; }
 
 /* ===========================
-Portfolio Style 2 
+Portfolio Style 2
 ===============================*/
 .portfolio-fullcontainer .portfolio-inner {
   margin: 0 -15px !important; }
@@ -2346,7 +2346,7 @@ Portfolio Style 2
     line-height: 120px; }
 
 /* =======================
-    Portfolio Style 5 
+    Portfolio Style 5
 ================================*/
 .rp_portfolio_menu5 button {
   color: #2e2e2d;
@@ -2537,7 +2537,7 @@ Portfolio Style 2
   margin-right: -15px; }
 
 /* ==========================
-    Sidebar Social Icon 
+    Sidebar Social Icon
 ==============================*/
 .sidebar-social-icon {
   position: absolute;
@@ -2581,7 +2581,7 @@ Portfolio Style 2
         visibility: hidden; }
 
 /* -----------------------
-    Search Style Area 
+    Search Style Area
 --------------------------*/
 .rf-search button {
   border: 0 none; }
@@ -2713,7 +2713,7 @@ ul.social-icon.hover-icon {
   margin-top: 60px; }
 
 /* =======================
-    Story Area 
+    Story Area
 ===========================*/
 .story-content .story-btn a {
   display: inline-block;
@@ -2745,7 +2745,7 @@ ul.social-icon.hover-icon {
   letter-spacing: 1px; }
 
 /* =====================
-Service Area 
+Service Area
 ========================*/
 .service {
   margin-top: 40px; }
@@ -2768,7 +2768,7 @@ Service Area
     letter-spacing: 1px; }
 
 /*=======================
-    Award Area 
+    Award Area
 =======================*/
 .award-content ul.rn-award-list {
   padding: 0;
@@ -2807,7 +2807,7 @@ Service Area
   background-position: center center; }
 
 /* ======================
-    Blog Area 
+    Blog Area
 =======================*/
 .rn-blog {
   margin-top: 40px; }
@@ -2828,7 +2828,7 @@ Service Area
     letter-spacing: 1px; }
 
 /* ====================
-    Breadcaump Area 
+    Breadcaump Area
 ==========================*/
 .main-paralax-wrapper {
   perspective: 1px;
@@ -2889,7 +2889,7 @@ Service Area
     padding: 0 10%; }
 
 /* ====================
-Blog Details Area 
+Blog Details Area
 =========================*/
 .blog-details-wrapper {
   max-width: 700px;
@@ -2941,7 +2941,7 @@ Blog Details Area
         margin: 0 15px; }
 
 /* ======================
-    Paralax Area  
+    Paralax Area
 ========================*/
 .bcg {
   background-position: center center;
@@ -3020,7 +3020,7 @@ Blog Details Area
   padding-right: 0; }
 
 /*====================
- Contact Area 
+ Contact Area
 =========================*/
 .contact-wrapper {
   padding: 5px 240px 135px; }
@@ -3137,7 +3137,7 @@ Blog Details Area
   color: #fff; }
 
 /* ========================
-    Fullpage Css 
+    Fullpage Css
 ===========================*/
 .swiper-container {
   width: 100%;
@@ -3455,7 +3455,7 @@ nav .menu li a {
   display: inline-block; }
 
 /* =======================
-    menu-horizontal 
+    menu-horizontal
 ===========================*/
 .rn-header--5 {
   padding: 70px 80px; }
@@ -3496,7 +3496,7 @@ nav .menu li a {
         border: 1px solid #000000; }
 
 /* ======================
-Hesder Static With Menu 
+Hesder Static With Menu
 ===========================*/
 .rn-header--withmenu {
   padding: 35px 80px;
@@ -3885,7 +3885,7 @@ ul.social-icon {
     opacity: 0;
 }*/
 /* =========================
-    Slider Style 5 
+    Slider Style 5
 ===========================*/
 .slide--5 {
   padding: 120px 0;
@@ -4063,7 +4063,7 @@ ul.social-icon {
         }
 		.rfanimation-style--2 {
 			.content {
-                
+
 				h3 {
 					-webkit-animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 	                animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
@@ -4208,7 +4208,7 @@ ul.social-icon {
   line-height: 30px; }
 
 /* ======================
-    Slider Style 3 
+    Slider Style 3
 ========================*/
 .box-layout {
   padding: 100px;
@@ -4255,7 +4255,7 @@ ul.social-icon {
   transform: translateY(0px); }
 
 /* ====================
-    Portfolio Details 
+    Portfolio Details
 ===========================*/
 .rf-portfolio-details .container {
   max-width: 1450px; }
@@ -4378,7 +4378,7 @@ ul.social-icon {
         right: auto; }
 
 /* =====================
-    Copyright Area 
+    Copyright Area
 ==========================*/
 .copyright {
   padding:   13px 250px;
@@ -4511,7 +4511,7 @@ footer#contact.rn-left-box-footer {
   margin-left: 135px; }
 
 /* ====================
-Responsive Css 
+Responsive Css
 ==========================*/
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .slider-container .slide-content.txt {
@@ -5942,6 +5942,7 @@ Responsive Css
     -webkit-transform: scale(1);
     opacity: 1;
 }
+
 body::-webkit-scrollbar {
   width: 0.65em; }
 
